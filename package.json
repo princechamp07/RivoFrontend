@@ -1,5 +1,6 @@
 {
   "name": "rivo",
+  "homepage": "https://github.com/princechamp07/RivoFrontend/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "axios": "^1.7.7",
@@ -20,7 +23,8 @@
     "react-router-dom": "^6.27.0",
     "react-slick": "^0.30.2",
     "react-table": "^7.8.0",
-    "slick-carousel": "^1.8.1"
+    "slick-carousel": "^1.8.1",
+    "gh-pages": "^6.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
@@ -38,3 +42,4 @@
     "vite": "^5.4.8"
   }
 }
+
