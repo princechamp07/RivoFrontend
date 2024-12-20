@@ -1,0 +1,229 @@
+[
+    {
+      "id": 1,
+      "name": "Almond Toe Court Shoes, Patent Black",
+      "category": "Womens Footwear",
+      "sub_category": "Best Selling",
+      "url": "https://carltonlondon.co.in/cdn/shop/files/IMG_9998_8e57d3eb-7ab2-41a2-8b12-b282044a627a.jpg?v=1720698195&width=360",
+      "price": 99.00,
+      "rating": 5.0
+    },
+    {
+      "id": 2,
+      "name": "Suede Shoes, Blue",
+      "category": "Womens Footwear",
+      "sub_category": "New Arrival",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKNXXKETTHYY5XevK5DePGAFw_rMzB0x2sQ&s",
+      "price": 42.00,
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Leather Driver Saddle Loafers, Tan",
+      "category": "Mens Footwear",
+      "sub_category": "Best Selling",
+      "url": "https://www.tresmode.com/cdn/shop/products/the-sobuck-tan-men-s-leather-driving-loafers-tresmode-tresmode-1_800x.jpg?v=1722868989",
+      "price": 34.00,
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Flip Flops, Red",
+      "category": "Mens Footwear",
+      "sub_category": "Hot",
+      "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6HYyIqEL9yfn9Qr1n78ERE49NpjIi1tIiYq5hLP-r7Q1ATpnHtKxOWYUHHlv1GbDnQHw_ALo4zBLX7vimIFCAawOnkR4Yf1AbaMuHRNluQtHZ8MeGHLhEMA",
+      "price": 19.00,
+      "rating": 3.2
+    },
+    {
+      "id": 5,
+      "name": "Flip Flops, Blue",
+      "category": "Mens Footwear",
+      "sub_category": "New Arrival",
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6UFSE4OaKj_FuilvYlu92MOUhSlu2nZl7DfH-XoC0SujVJYWTcQhey_G3KFvRneMcrh-wpxQrNcOQBeZwhB2lDffLDvzaL35nbpnWmiTO",
+      "price": 19.00,
+      "rating": 4.0
+    },
+    {
+      "id": 6,
+      "name": "Gold Button Cardigan, Black",
+      "category": "Womens Casualwear",
+      "sub_category": "Accessories",
+      "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnz6AF2H8fNTmWrE0leH610RN3jAeQBiDHU-rEVTF6-0GsQp7R9iJMQMYv7tm722sAgcuJENok8u-4HhYcLPOEFIwfA9luaC0mCbxEikQ",
+      "price": 167.00,
+      "rating": 4.1
+    },
+    {
+      "id": 7,
+      "name": "Cotton Shorts, Medium Red",
+      "category": "Womens Casualwear",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/cotton-shorts-medium-red.jpg",
+      "price": 30.00,
+      "rating": 5.0
+    },
+    {
+      "id": 8,
+      "name": "Fine Stripe Short Sleeve Shirt, Grey",
+      "category": "Mens Casualwear",
+      "sub_category": "Best Selling",
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmS2puGxVjiN6Nt4or5GCjzz7vk3CdYPRU5lRXY6If_-WkCZM_XgqS4VK-SFEapjyY8BpVpXVLpyTU-Zsijuvn_EGij6iWoIxaa2ZVStMJ",
+      "price": 49.99,
+      "rating": 5.0
+    },
+    {
+      "id": 9,
+      "name": "Fine Stripe Short Sleeve Shirt, Green",
+      "category": "Mens Casualwear",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/fine-stripe-shirt-green.jpg",
+      "price": 49.99,
+      "offer": 39.99,
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "name": "Sharkskin Waistcoat, Charcoal",
+      "category": "Mens Formalwear",
+      "sub_category": "Best Selling",
+      "url": "https://www.edwardsexton.co.uk/cdn/shop/files/Edward-Sexton_AW23_Look-22_1787_1080x.jpg?v=1695208527",
+      "price": 75.00,
+      "rating": 2.4
+    },
+    {
+      "id": 11,
+      "name": "Lightweight Patch Pocket Blazer, Deer",
+      "category": "Mens Formalwear",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/patch-pocket-blazer-deer.jpg",
+      "price": 175.50,
+      "rating": 1.0
+    },
+    {
+      "id": 12,
+      "name": "Bird Print Dress, Black",
+      "category": "Womens Formalwear",
+      "sub_category": "Best Selling",
+      "url": "https://example.com/bird-print-dress-black.jpg",
+      "price": 270.00,
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Mid Twist Cut-Out Dress, Pink",
+      "category": "Womens Formalwear",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/mid-twist-cutout-dress-pink.jpg",
+      "price": 540.00,
+      "rating": 5.0
+    },
+    {
+      "id": 14,
+      "name": "Leather Belt, Brown",
+      "category": "Accessories",
+      "sub_category": "Sale",
+      "url": "https://example.com/leather-belt-brown.jpg",
+      "price": 29.99,
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "name": "Wool Scarf, Grey",
+      "category": "Accessories",
+      "sub_category": "Hot",
+      "url": "https://example.com/wool-scarf-grey.jpg",
+      "price": 49.99,
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "name": "Classic White T-Shirt",
+      "category": "Womens Casualwear",
+      "sub_category": "Best Selling",
+      "url": "https://example.com/classic-white-tshirt.jpg",
+      "price": 19.99,
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "name": "Stylish Sunglasses, Black",
+      "category": "Accessories",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/stylish-sunglasses-black.jpg",
+      "price": 79.99,
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "name": "Canvas Backpack, Blue",
+      "category": "Accessories",
+      "sub_category": "Hot",
+      "url": "https://example.com/canvas-backpack-blue.jpg",
+      "price": 59.99,
+      "rating": 4.4
+    },
+    {
+      "id": 19,
+      "name": "Denim Jacket, Light Wash",
+      "category": "Womens Casualwear",
+      "sub_category": "Sale",
+      "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjsaX_PREq_wSNswIaKGxLjATxZjaEF7sFIW7W514o07qgIxV99mcADIB9aiYVT5hTkWtIfYA6hDjmndiTOjV2cbpS1vdomZ6ou8FxiURjLDhbav_uWqghddM&usqp=CAc",
+      "price": 89.99,
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "name": "Leather Messenger Bag, Brown",
+      "category": "Accessories",
+      "sub_category": "Best Selling",
+      "url": "https://example.com/leather-messenger-bag-brown.jpg",
+      "price": 129.99,
+      "rating": 4.8
+    },
+    {
+      "id": 21,
+      "name": "Tropical Print Swim Shorts",
+      "category": "Mens Casualwear",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/tropical-print-swim-shorts.jpg",
+      "price": 39.99,
+      "rating": 4.2
+    },
+    {
+      "id": 22,
+      "name": "V-Neck Knit Sweater, Navy",
+      "category": "Womens Casualwear",
+      "sub_category": "Hot",
+      "url": "https://example.com/v-neck-knit-sweater-navy.jpg",
+      "price": 59.99,
+      "rating": 4.5
+    },
+    {
+      "id": 23,
+      "name": "High Waisted Jeans, Black",
+      "category": "Womens Casualwear",
+      "sub_category": "Best Selling",
+      "url": "https://example.com/high-waisted-jeans-black.jpg",
+      "price": 49.99,
+      "rating": 4.9
+    },
+    {
+      "id": 24,
+      "name": "Sports Watch, Black",
+      "category": "Accessories",
+      "sub_category": "New Arrival",
+      "url": "https://example.com/sports-watch-black.jpg",
+      "price": 89.99,
+      "rating": 4.0
+    },
+    {
+      "id": 25,
+      "name": "Elegant Evening Clutch, Gold",
+      "category": "Accessories",
+      "sub_category": "Sale",
+      "url": "https://example.com/elegant-evening-clutch-gold.jpg",
+      "price": 45.00,
+      "rating": 4.7
+    }
+  ]
+  
