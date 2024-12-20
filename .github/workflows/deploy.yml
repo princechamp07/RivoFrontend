@@ -8,19 +8,19 @@ on:
 jobs:
   build:
     name: Build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Changed to avoid warning
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3  # Updated to the latest v3 version
+        uses: actions/checkout@v3  # Updated to v3 version
 
       - name: Setup Node
-        uses: actions/setup-node@v3  # Updated to the latest v3 version
+        uses: actions/setup-node@v3  # Updated to v3 version
         with:
           node-version: 16
 
       - name: Install dependencies
-        uses: bahmutov/npm-install@v2  # Updated to v2 version
+        uses: npm-action/install@v1  # Use this action to install dependencies
 
       - name: Build project
         run: npm run build
@@ -34,7 +34,7 @@ jobs:
   deploy:
     name: Deploy
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Same version for consistency
     if: github.ref == 'refs/heads/main'
 
     steps:
