@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Deploys when you push to the main branch
+      - main  # Trigger deployment on push to the main branch
 
 jobs:
   build:
@@ -29,5 +29,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          # Optionally, add the repository name if you're using a project page
-          # publish_branch: gh-pages  # Optional, default is `gh-pages`
