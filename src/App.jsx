@@ -17,7 +17,7 @@ function App() {
       <AuthProvider>
         <Routes>
         <Route path="RivoFrontend/" element={<Home />} />
-          <Route path="RivoFrontend/login" element={<Login />} />
+          <Route path="/login" element={<Login />} />
           <Route path="RivoFrontend/signup" element={<Signup />} />
           <Route path="RivoFrontend/ecommerce" element={<Ecommerce />} />
           <Route path="RivoFrontend/Dashboard" element={<Dashboard />} />
