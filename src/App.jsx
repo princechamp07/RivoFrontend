@@ -16,13 +16,13 @@ function App() {
     <Router>
       <AuthProvider>
         <Routes>
-        <Route path="/" element={<Home />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<Signup />} />
-          <Route path="/ecommerce" element={<Ecommerce />} />
-          <Route path="/Dashboard" element={<Dashboard />} />
-          <Route path="/order" element={<Order />} />
-          <Route path="/cart" element={<Cart />} />
+        <Route path="RivoFrontend/" element={<Home />} />
+          <Route path="RivoFrontend/login" element={<Login />} />
+          <Route path="RivoFrontend/signup" element={<Signup />} />
+          <Route path="RivoFrontend/ecommerce" element={<Ecommerce />} />
+          <Route path="RivoFrontend/Dashboard" element={<Dashboard />} />
+          <Route path="RivoFrontend/order" element={<Order />} />
+          <Route path="RivoFrontend/cart" element={<Cart />} />
          
           {/* Other routes can go here */}
         </Routes>
