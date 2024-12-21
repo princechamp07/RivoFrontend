@@ -124,7 +124,7 @@ const Signup = () => {
         <p className="text-center mt-6 text-sm text-gray-600">
           Already have an account?{' '}
           <span className="text-yellow-600 cursor-pointer hover:underline">
-            <Link to="RivoFrontend/login">Login</Link>
+            <Link to="/login">Login</Link>
           </span>
         </p>
       </div>

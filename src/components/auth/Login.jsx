@@ -101,7 +101,7 @@ const Login = () => {
         <p className="text-center mt-6 text-sm text-gray-600">
           Don’t have an account?{' '}
           <span className="text-yellow-600 cursor-pointer hover:underline">
-            <Link to="RivoFrontend/signup">Register Now</Link>
+            <Link to="/signup">Register Now</Link>
           </span>
         </p>
       </div>
