@@ -22,7 +22,7 @@ const Navbar = () => {
 
           {/* Login Button */}
           <div className="uppercase font-serif border hover:shadow-inner rounded p-1 px-4 border-green-900 cursor-pointer">
-            <Link to="RivoFrontend/login">Login</Link>
+            <Link to="/login">Login</Link>
           </div>
         </div>
       </nav>
